@@ -1,0 +1,506 @@
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\ApplicationInsights.config
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\csc.exe
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\vbc.exe
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\VBCSCompiler.exe
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\IQMarketBackend.dll.config
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\IQMarketBackend.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\IQMarketBackend.pdb
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Antlr3.Runtime.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\EntityFramework.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\EntityFramework.SqlServer.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.Web.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.ApplicationInsights.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Google.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Newtonsoft.Json.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Owin.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Net.Http.Formatting.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Helpers.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Http.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Http.Owin.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Http.WebHost.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Mvc.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Optimization.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Razor.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.WebPages.Deployment.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.WebPages.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.WebPages.Razor.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\WebGrease.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.Web.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.ApplicationInsights.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Newtonsoft.Json.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Net.Http.Formatting.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Helpers.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Http.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Http.WebHost.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Mvc.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Optimization.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Razor.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.WebPages.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.WebPages.Deployment.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.WebPages.Razor.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Antlr3.Runtime.pdb
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\EntityFramework.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\EntityFramework.SqlServer.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Google.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\bin\System.Web.Http.Owin.xml
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\obj\Debug\IQMarketBackend.csprojResolveAssemblyReference.cache
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\obj\Debug\IQMarketBackend.dll
+c:\users\tamara\documents\visual studio 2015\Projects\IQMarketBackend\IQMarketBackend\obj\Debug\IQMarketBackend.pdb
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\ApplicationInsights.config
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\csc.exe
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\vbc.exe
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll.config
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.pdb
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Owin.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\WebGrease.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.pdb
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.pdb
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Cors.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Autofac.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Autofac.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\NLog.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\NLog.xml
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.dll
+C:\Users\Tamara\Documents\AtanasGit\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\ApplicationInsights.config
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\csc.exe
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\vbc.exe
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll.config
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.pdb
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Autofac.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\NLog.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Owin.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Cors.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\WebGrease.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Autofac.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\NLog.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.pdb
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.xml
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.csprojResolveAssemblyReference.cache
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.dll
+C:\Users\Monika Petrovska\Desktop\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.pdb
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\ApplicationInsights.config
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\csc.exe
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\vbc.exe
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll.config
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.pdb
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Autofac.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\NLog.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Owin.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Cors.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\WebGrease.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Autofac.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\NLog.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.pdb
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.xml
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.csprojResolveAssemblyReference.cache
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.dll
+C:\Users\Monika Petrovska\Documents\GitHub\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.pdb
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\ApplicationInsights.config
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\csc.exe
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\vbc.exe
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll.config
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\IQMarketBackend.pdb
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Autofac.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\NLog.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Owin.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Cors.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\WebGrease.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Autofac.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Autofac.Integration.WebApi.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Google.Protobuf.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.Web.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Cors.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\MySql.Data.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Newtonsoft.Json.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\NLog.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Net.Http.Formatting.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Helpers.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.WebHost.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Mvc.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Optimization.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Razor.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Antlr3.Runtime.pdb
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\EntityFramework.SqlServer.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\bin\System.Web.Http.Owin.xml
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.dll
+C:\Users\Tamara\Desktop\openssl\IQMarketBackEnd\IQMarketBackend\obj\Debug\IQMarketBackend.pdb
